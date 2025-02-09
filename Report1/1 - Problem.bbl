@@ -1,0 +1,86 @@
+\begin{thebibliography}{9}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Anderson et~al.(2018)Anderson, He, Buehler, Teney, Johnson, Gould, and
+  Zhang]{anderson2018bottom}
+Peter Anderson, Xiaodong He, Chris Buehler, Damien Teney, Mark Johnson, Stephen
+  Gould, and Lei Zhang.
+\newblock Bottom-up and top-down attention for image captioning and visual
+  question answering.
+\newblock In \emph{Proceedings of the IEEE conference on computer vision and
+  pattern recognition (CVPR)}, 2018.
+\newblock URL \url{https://arxiv.org/abs/1707.07998}.
+
+\bibitem[Ettinger et~al.(2021)Ettinger, Cheng, Caine, Liu, Zhao, Pradhan, Chai,
+  Sapp, Qi, Zhou, Yang, Chouard, Sun, Ngiam, Vasudevan, McCauley, Shlens, and
+  Anguelov]{Ettinger2021LargeSI}
+Scott~M. Ettinger, Shuyang Cheng, Benjamin Caine, Chenxi Liu, Hang Zhao, Sabeek
+  Pradhan, Yuning Chai, Benjamin Sapp, C.~Qi, Yin Zhou, Zoey Yang, Aurelien
+  Chouard, Pei Sun, Jiquan Ngiam, Vijay Vasudevan, Alexander McCauley, Jonathon
+  Shlens, and Drago Anguelov.
+\newblock Large scale interactive motion forecasting for autonomous driving :
+  The waymo open motion dataset.
+\newblock \emph{2021 IEEE/CVF International Conference on Computer Vision
+  (ICCV)}, pp.\  9690--9699, 2021.
+\newblock URL \url{https://api.semanticscholar.org/CorpusID:233307215}.
+
+\bibitem[Huang et~al.(2021)Huang, Huang, Zhu, Ye, and Du]{huang2021bevdet}
+Junjie Huang, Guan Huang, Zheng Zhu, Yun Ye, and Dalong Du.
+\newblock Bevdet: High-performance multi-camera 3d object detection in
+  bird-eye-view.
+\newblock In \emph{arXiv preprint arXiv:2112.11790}, 2021.
+\newblock URL \url{https://arxiv.org/abs/2112.11790}.
+
+\bibitem[Hwang et~al.(2024)Hwang, Xu, Lin, Hung, Ji, Choi, Huang, He,
+  Covington, Sapp, Guo, Anguelov, and Tan]{Hwang2024EMMAEM}
+Jyh-Jing Hwang, Runsheng Xu, Hubert Lin, Wei-Chih Hung, Jingwei Ji, Kristy
+  Choi, Di~Huang, Tong He, Paul Covington, Benjamin Sapp, James Guo, Drago
+  Anguelov, and Mingxing Tan.
+\newblock Emma: End-to-end multimodal model for autonomous driving.
+\newblock \emph{ArXiv}, abs/2410.23262, 2024.
+\newblock URL \url{https://api.semanticscholar.org/CorpusID:273695673}.
+
+\bibitem[Jiao et~al.(2023)Jiao, Jie, Chen, Chen, Ma, and
+  Jiang]{zhang2022msmdfusion}
+Yang Jiao, Zequn Jie, Shaoxiang Chen, Jingjing Chen, Lin Ma, and Yu-Gang Jiang.
+\newblock Msmdfusion: Fusing lidar and camera at multiple scales with
+  multi-depth seeds for 3d object detection.
+\newblock In \emph{Proceedings of the IEEE/CVF conference on computer vision
+  and pattern recognition (CVPR)}, 2023.
+\newblock URL \url{https://arxiv.org/abs/2209.03102}.
+
+\bibitem[Qian et~al.(2024)Qian, Chen, Zhuo, Jiao, and Jiang]{qian2024nuscenes}
+Tianwen Qian, Jingjing Chen, Linhai Zhuo, Yang Jiao, and Yu-Gang Jiang.
+\newblock Nuscenes-qa: A multi-modal visual question answering benchmark for
+  autonomous driving scenario.
+\newblock \emph{arXiv preprint arXiv:2305.14836}, 2024.
+\newblock URL \url{https://github.com/qiantianwen/NuScenes-QA}.
+
+\bibitem[Xing et~al.(2024)Xing, Qian, Wang, Hua, Tian, Zhou, and Tu]{openemma}
+Shuo Xing, Chengyuan Qian, Yuping Wang, Hongyuan Hua, Kexin Tian, Yang Zhou,
+  and Zhengzhong Tu.
+\newblock Openemma: Open-source multimodal model for end-to-end autonomous
+  driving.
+\newblock \emph{arXiv}, December 2024.
+\newblock \doi{10.48550/arXiv.2412.15208}.
+\newblock URL \url{https://github.com/taco-group/OpenEMMA}.
+
+\bibitem[Yin et~al.(2021)Yin, Zhou, and Kr{\"a}henb{\"u}hl]{yin2021centerpoint}
+Tianwei Yin, Xingyi Zhou, and Philipp Kr{\"a}henb{\"u}hl.
+\newblock Centerpoint: A unified framework for 3d object detection.
+\newblock In \emph{Proceedings of the IEEE/CVF Conference on Computer Vision
+  and Pattern Recognition (CVPR)}, 2021.
+\newblock URL \url{https://arxiv.org/abs/2006.11275}.
+
+\bibitem[Yu et~al.(2019)Yu, Yu, Cui, Tao, and Tian]{yu2019deep}
+Zhou Yu, Jun Yu, Yuhao Cui, Dacheng Tao, and Qi~Tian.
+\newblock Deep modular co-attention networks for visual question answering.
+\newblock In \emph{Proceedings of the IEEE/CVF conference on computer vision
+  and pattern recognition (CVPR)}, 2019.
+\newblock URL \url{https://arxiv.org/abs/1906.10770}.
+
+\end{thebibliography}

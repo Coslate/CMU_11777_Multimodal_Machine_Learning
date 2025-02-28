@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.5)  9 FEB 2025 15:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.5)  12 FEB 2025 22:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -400,7 +400,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@floatcapt=\box54
 )
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 2
-6.
+7.
 
 (C:\Users\Patrick Chen\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
@@ -417,24 +417,24 @@ LaTeX Warning: Label `fig:Dataset1' multiply defined.
 )
 \openout1 = `"1 - Problem.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
 
 (C:\Users\Patrick Chen\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp
 -pdf.mkii
@@ -461,45 +461,45 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 f-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 26.
+Package hyperref Info: Link coloring OFF on input line 27.
  (1 - Problem.out) (1 - Problem.out)
 \@outlinefile=\write3
 \openout3 = `"1 - Problem.out"'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 28.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 29.
 
 
 (C:\Users\Patrick Chen\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 28.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 29.
 
 
 (C:\Users\Patrick Chen\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 2
-8.
+9.
 
 (C:\Users\Patrick Chen\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 LaTeX Font Info:    Trying to load font information for OMS+pcr on input line 2
-8.
+9.
 
 (C:\Users\Patrick Chen\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omspcr.fd
 File: omspcr.fd 
 )
 LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 28.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 29.
 <./Figures/Baseline_Framework.png, id=67, 753.5653pt x 252.19218pt>
 File: ./Figures/Baseline_Framework.png Graphic file (type png)
 <use ./Figures/Baseline_Framework.png>
 Package pdftex.def Info: ./Figures/Baseline_Framework.png  used on input line 3
-6.
+7.
 (pdftex.def)             Requested size: 357.73405pt x 119.7194pt.
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 4
-8.
+9.
 
 (C:\Users\Patrick Chen\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
@@ -511,7 +511,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.57 	
+l.58 	
        <./Figures/Baseline_Framework.png>] [2] [3]
 <Figures/Template Type Counts and Average Question Lengths.png, id=114, 859.651
 66pt x 426.393pt>
@@ -519,7 +519,7 @@ File: Figures/Template Type Counts and Average Question Lengths.png Graphic fil
 e (type png)
 <use Figures/Template Type Counts and Average Question Lengths.png>
 Package pdftex.def Info: Figures/Template Type Counts and Average Question Leng
-ths.png  used on input line 140.
+ths.png  used on input line 141.
 (pdftex.def)             Requested size: 357.73405pt x 177.43776pt.
  [4
 
@@ -527,14 +527,14 @@ ths.png  used on input line 140.
 <Figures/nuscenes_category.png, id=124, 859.2903pt x 426.393pt>
 File: Figures/nuscenes_category.png Graphic file (type png)
 <use Figures/nuscenes_category.png>
-Package pdftex.def Info: Figures/nuscenes_category.png  used on input line 147.
+Package pdftex.def Info: Figures/nuscenes_category.png  used on input line 148.
 
 (pdftex.def)             Requested size: 357.73405pt x 177.50932pt.
 <./Figures/nuscenes_Frequency_of_Scenes.png, id=126, 714.7503pt x 426.393pt>
 File: ./Figures/nuscenes_Frequency_of_Scenes.png Graphic file (type png)
 <use ./Figures/nuscenes_Frequency_of_Scenes.png>
 Package pdftex.def Info: ./Figures/nuscenes_Frequency_of_Scenes.png  used on in
-put line 154.
+put line 155.
 (pdftex.def)             Requested size: 357.73405pt x 213.41718pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -544,13 +544,13 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.158 		\item N
+l.159 		\item N
                umber of Objects per Scene (\autoref{fig:NBI})
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.158 		\item N
+l.159 		\item N
                umber of Objects per Scene (\autoref{fig:NBI}) <./Figures/Templa
 te Type Counts and Average Question Lengths.png> <./Figures/nuscenes_category.p
 ng>]
@@ -558,7 +558,7 @@ ng>]
 File: Figures/nuscenes_class_occurrence.png Graphic file (type png)
 <use Figures/nuscenes_class_occurrence.png>
 Package pdftex.def Info: Figures/nuscenes_class_occurrence.png  used on input l
-ine 161.
+ine 162.
 (pdftex.def)             Requested size: 357.73405pt x 178.73482pt.
 <Figures/Nuscenes_Location_and_Date_Distribution_Visualization.png, id=140, 839
 .0547pt x 354.123pt>
@@ -566,7 +566,7 @@ File: Figures/Nuscenes_Location_and_Date_Distribution_Visualization.png Graphic
  file (type png)
 <use Figures/Nuscenes_Location_and_Date_Distribution_Visualization.png>
 Package pdftex.def Info: Figures/Nuscenes_Location_and_Date_Distribution_Visual
-ization.png  used on input line 168.
+ization.png  used on input line 169.
 (pdftex.def)             Requested size: 357.73405pt x 150.98389pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -576,27 +576,27 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.172 		
+l.173 		
         
 pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.172 		
+l.173 		
          <./Figures/nuscenes_Frequency_of_Scenes.png> <./Figures/nuscenes_class
 _occurrence.png>] [7
 pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.215 		
+l.216 		
          <./Figures/Nuscenes_Location_and_Date_Distribution_Visualization.png>]
 [8
 pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.248 	\clearpage
+l.249 	\clearpage
                  ] [9
 
 ] (1 - Problem.bbl) [10
@@ -605,26 +605,26 @@ l.248 	\clearpage
 <Figures/Agents_Stat.png, id=211, 351.3125pt x 384.43625pt>
 File: Figures/Agents_Stat.png Graphic file (type png)
 <use Figures/Agents_Stat.png>
-Package pdftex.def Info: Figures/Agents_Stat.png  used on input line 308.
+Package pdftex.def Info: Figures/Agents_Stat.png  used on input line 309.
 (pdftex.def)             Requested size: 357.73405pt x 391.49211pt.
 <Figures/Agents_Trajectories.png, id=216, 504.88625pt x 543.02875pt>
 File: Figures/Agents_Trajectories.png Graphic file (type png)
 <use Figures/Agents_Trajectories.png>
-Package pdftex.def Info: Figures/Agents_Trajectories.png  used on input line 31
-9.
+Package pdftex.def Info: Figures/Agents_Trajectories.png  used on input line 32
+0.
 (pdftex.def)             Requested size: 357.73405pt x 384.76593pt.
  [11] [12
 pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.331 \end{document}
+l.332 \end{document}
                      <./Figures/Agents_Stat.png>] [13
 pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.331 \end{document}
+l.332 \end{document}
                      <./Figures/Agents_Trajectories.png>] (1 - Problem.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
@@ -639,7 +639,7 @@ Package rerunfilecheck Info: File `"1 - Problem".out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  11370 strings out of 474486
- 173232 string characters out of 5740416
+ 173342 string characters out of 5740416
  1948542 words of memory out of 5000000
  33388 multiletter control sequences out of 15000+600000
  585955 words of font info for 102 fonts, out of 8000000 for 9000
@@ -655,7 +655,7 @@ rick Chen/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Us
 ers/Patrick Chen/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb
 ><C:/Users/Patrick Chen/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utm
 ri8a.pfb>
-Output written on "1 - Problem.pdf" (13 pages, 855617 bytes).
+Output written on "1 - Problem.pdf" (13 pages, 855614 bytes).
 PDF statistics:
  290 PDF objects out of 1000 (max. 8388607)
  69 named destinations out of 1000 (max. 500000)

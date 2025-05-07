@@ -65,12 +65,12 @@ CUDA_VISIBLE_DEVICES=0 python ./train.py --batch-size 8 --epochs 8 --freeze-lm -
 
 **Without Pre-training**
 ```bash
-CUDA_VISIBLE_DEVICES=4 python ./train.py --batch-size 8 --epochs 6 --lora --num-workers 16 --checkpoint-file /data/patrick/mmml_saving/bev_Q_pretrained_T5-Base/latest_model_saved.pth --load-checkpoint --output-dir /data/patrick/mml_saving/bev_Q_finetuned_wo_pretrained_T5-base_lr1e-5/ --learning-rate 1e-5 --feat bevfusion
+CUDA_VISIBLE_DEVICES=4 python ./train.py --batch-size 8 --epochs 6 --lora --num-workers 16 --checkpoint-file ./multi_frame_results/T5-Base/latest_model.pth --load-orig-format--load-checkpoint --output-dir /data/patrick/mml_saving/bev_Q_finetuned_wo_pretrained_T5-base_lr5e-4/ --learning-rate 5e-4 --feat bevfusion
 ```
 
 **With Pre-training**
 ```bash
-CUDA_VISIBLE_DEVICES=4 python ./train.py --batch-size 8 --epochs 6 --lora --num-workers 16 --checkpoint-file /data/patrick/mmml_saving/bev_Q_pretrained_T5-Q-Large/latest_model_saved.pth --load-checkpoint --output-dir /data/patrick/mmml_saving/bev_Q_finetuned_T5-base_lr1e-4/ --learning-rate 1e-4 --feat bevfusion --restart
+CUDA_VISIBLE_DEVICES=4 python ./train.py --batch-size 8 --epochs 6 --lora --num-workers 16 --checkpoint-file /data/patrick/mmml_saving/bev_Q_pretrained_T5-Base/latest_model_saved.pth --load-checkpoint --output-dir /data/patrick/mmml_saving/bev_Q_finetuned_T5-base_lr5e-4 --learning-rate 5e-4 --feat bevfusion
 ```
 
 ---

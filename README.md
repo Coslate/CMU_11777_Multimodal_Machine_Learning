@@ -1,4 +1,4 @@
-# CMU 11777 Multimodal Machine Learning Project: DriveLM with BEVFusion Features
+# CMU 11777 Multimodal Machine Learning Project: Multimodel VQA in Autonomous Driving
 
 This repository contains all course materials and project code for CMU 11-777 Multimodal Machine Learning. The core project focuses on enhancing 
 vision-language models (VLMs) using BEVFusion features (image + LiDAR) for the DriveLM-nuScenes dataset.

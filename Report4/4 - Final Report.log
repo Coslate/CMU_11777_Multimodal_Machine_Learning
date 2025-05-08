@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.5)  7 MAY 2025 19:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.5)  7 MAY 2025 21:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -799,10 +799,10 @@ File: Figures/n008-2018-09-18-15-26-58-0400__CAM_FRONT__1537299148862404.jpg Gr
 aphic file (type jpg)
 <use Figures/n008-2018-09-18-15-26-58-0400__CAM_FRONT__1537299148862404.jpg>
 Package pdftex.def Info: Figures/n008-2018-09-18-15-26-58-0400__CAM_FRONT__1537
-299148862404.jpg  used on input line 773.
+299148862404.jpg  used on input line 772.
 (pdftex.def)             Requested size: 170.71652pt x 96.02194pt.
 
-Overfull \vbox (52.10594pt too high) detected at line 773
+Overfull \vbox (52.10594pt too high) detected at line 772
  []
 
 <Figures/n015-2018-11-14-19-09-14+0800__CAM_BACK_LEFT__1542193883447423.jpg, id
@@ -812,10 +812,10 @@ g Graphic file (type jpg)
 <use Figures/n015-2018-11-14-19-09-14+0800__CAM_BACK_LEFT__1542193883447423.jpg
 >
 Package pdftex.def Info: Figures/n015-2018-11-14-19-09-14+0800__CAM_BACK_LEFT__
-1542193883447423.jpg  used on input line 786.
+1542193883447423.jpg  used on input line 785.
 (pdftex.def)             Requested size: 170.71652pt x 96.02194pt.
 
-Overfull \vbox (52.10594pt too high) detected at line 786
+Overfull \vbox (52.10594pt too high) detected at line 785
  []
 
 <Figures/n008-2018-09-18-13-41-50-0400__CAM_BACK_LEFT__1537293297797405.jpg, id
@@ -825,14 +825,14 @@ g Graphic file (type jpg)
 <use Figures/n008-2018-09-18-13-41-50-0400__CAM_BACK_LEFT__1537293297797405.jpg
 >
 Package pdftex.def Info: Figures/n008-2018-09-18-13-41-50-0400__CAM_BACK_LEFT__
-1537293297797405.jpg  used on input line 798.
+1537293297797405.jpg  used on input line 797.
 (pdftex.def)             Requested size: 170.71652pt x 96.02194pt.
 
-Overfull \vbox (52.10594pt too high) detected at line 798
+Overfull \vbox (52.10594pt too high) detected at line 797
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 799--800
+Underfull \hbox (badness 10000) in paragraph at lines 798--799
 []|\OT1/ptm/b/n/10 Q\OT1/ptm/m/n/10 : What is the fu-ture state of
  []
 
@@ -843,14 +843,14 @@ pg Graphic file (type jpg)
 <use Figures/n008-2018-08-29-16-04-13-0400__CAM_BACK_RIGHT__1535573956528113.jp
 g>
 Package pdftex.def Info: Figures/n008-2018-08-29-16-04-13-0400__CAM_BACK_RIGHT_
-_1535573956528113.jpg  used on input line 810.
+_1535573956528113.jpg  used on input line 809.
 (pdftex.def)             Requested size: 170.71652pt x 96.02194pt.
 
-Overfull \vbox (52.10594pt too high) detected at line 810
+Overfull \vbox (52.10594pt too high) detected at line 809
  []
 
 
-Overfull \hbox (53.30635pt too wide) in paragraph at lines 768--818
+Overfull \hbox (53.30635pt too wide) in paragraph at lines 767--817
  [][] 
  []
 
@@ -870,14 +870,14 @@ jpg Graphic file (type jpg)
 <use Figures/n015-2018-10-08-15-52-24+0800__CAM_FRONT_RIGHT__1538985706770339.j
 pg>
 Package pdftex.def Info: Figures/n015-2018-10-08-15-52-24+0800__CAM_FRONT_RIGHT
-__1538985706770339.jpg  used on input line 833.
+__1538985706770339.jpg  used on input line 832.
 (pdftex.def)             Requested size: 170.71652pt x 96.02194pt.
 
-Overfull \vbox (52.10594pt too high) detected at line 833
+Overfull \vbox (52.10594pt too high) detected at line 832
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 834--835
+Underfull \hbox (badness 10000) in paragraph at lines 833--834
 []|\OT1/ptm/b/n/10 Q\OT1/ptm/m/n/10 : What is the vi-sual de-scrip-tion of
  []
 
@@ -888,14 +888,14 @@ g Graphic file (type jpg)
 <use Figures/n015-2018-10-08-16-03-24+0800__CAM_BACK_LEFT__1538985816447423.jpg
 >
 Package pdftex.def Info: Figures/n015-2018-10-08-16-03-24+0800__CAM_BACK_LEFT__
-1538985816447423.jpg  used on input line 845.
+1538985816447423.jpg  used on input line 844.
 (pdftex.def)             Requested size: 170.71652pt x 96.02194pt.
 
-Overfull \vbox (52.10594pt too high) detected at line 845
+Overfull \vbox (52.10594pt too high) detected at line 844
  []
 
 
-Overfull \hbox (53.30635pt too wide) in paragraph at lines 828--853
+Overfull \hbox (53.30635pt too wide) in paragraph at lines 827--852
  [][] 
  []
 
@@ -906,10 +906,10 @@ g Graphic file (type jpg)
 <use Figures/n008-2018-08-29-16-04-13-0400__CAM_BACK_LEFT__1535573956547405.jpg
 >
 Package pdftex.def Info: Figures/n008-2018-08-29-16-04-13-0400__CAM_BACK_LEFT__
-1535573956547405.jpg  used on input line 866.
+1535573956547405.jpg  used on input line 865.
 (pdftex.def)             Requested size: 170.71652pt x 96.02194pt.
 
-Overfull \vbox (52.10594pt too high) detected at line 866
+Overfull \vbox (52.10594pt too high) detected at line 865
  []
 
 <Figures/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290748612404.jpg, id=425
@@ -918,19 +918,19 @@ File: Figures/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290748612404.jpg Gr
 aphic file (type jpg)
 <use Figures/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290748612404.jpg>
 Package pdftex.def Info: Figures/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537
-290748612404.jpg  used on input line 878.
+290748612404.jpg  used on input line 877.
 (pdftex.def)             Requested size: 170.71652pt x 96.02194pt.
 
-Overfull \vbox (52.10594pt too high) detected at line 878
+Overfull \vbox (52.10594pt too high) detected at line 877
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 879--880
+Underfull \hbox (badness 10000) in paragraph at lines 878--879
 []|\OT1/ptm/b/n/10 Q\OT1/ptm/m/n/10 : What is the vi-sual de-scrip-tion of
  []
 
 
-Overfull \hbox (53.30635pt too wide) in paragraph at lines 859--886
+Overfull \hbox (53.30635pt too wide) in paragraph at lines 858--885
  [][] 
  []
 
@@ -939,67 +939,67 @@ Overfull \hbox (53.30635pt too wide) in paragraph at lines 859--886
 .jpg> <./Figures/n008-2018-08-29-16-04-13-0400__CAM_BACK_LEFT__1535573956547405
 .jpg> <./Figures/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290748612404.jpg
 >]
-Underfull \hbox (badness 10000) in paragraph at lines 913--913
+Underfull \hbox (badness 10000) in paragraph at lines 912--912
 \OT1/pcr/m/n/10 <c3,CAM[]FRONT[]RIGHT,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 913--913
+Underfull \hbox (badness 10000) in paragraph at lines 912--912
 \OT1/pcr/m/n/10 1010.7,411.4> \OT1/ptm/m/n/10 to be
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 915--915
+Underfull \hbox (badness 10000) in paragraph at lines 914--914
 []|\OT1/ptm/m/n/10 What ac-tions taken by
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 915--915
+Underfull \hbox (badness 10000) in paragraph at lines 914--914
 \OT1/ptm/m/n/10 the ego ve-hi-cle can
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 915--915
+Underfull \hbox (badness 10000) in paragraph at lines 914--914
 \OT1/ptm/m/n/10 lead to a col-li-sion with
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 915--915
+Underfull \hbox (badness 10000) in paragraph at lines 914--914
 \OT1/pcr/m/n/10 <c1,CAM[]FRONT[]RIGHT,
  []
 
 
-Underfull \hbox (badness 1810) in paragraph at lines 919--919
+Underfull \hbox (badness 1810) in paragraph at lines 918--918
 []|\OT1/ptm/m/n/10 What is the mov-ing sta-tus
  []
 
 
-Overfull \hbox (71.78944pt too wide) in paragraph at lines 907--922
+Overfull \hbox (71.78944pt too wide) in paragraph at lines 906--921
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 934--934
+Underfull \hbox (badness 10000) in paragraph at lines 933--933
 []|\OT1/ptm/m/n/10 What is the vi-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 934--934
+Underfull \hbox (badness 10000) in paragraph at lines 933--933
 \OT1/ptm/m/n/10 sual de-scrip-tion of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 934--934
+Underfull \hbox (badness 10000) in paragraph at lines 933--933
 \OT1/pcr/m/n/10 <c1,CAM[]FRONT[]RIGHT,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 934--934
+Underfull \hbox (badness 10000) in paragraph at lines 933--933
 \OT1/ptm/m/n/10 ing a black
  []
 
 
-Overfull \hbox (71.78944pt too wide) in paragraph at lines 930--937
+Overfull \hbox (71.78944pt too wide) in paragraph at lines 929--936
  [][] 
  []
 

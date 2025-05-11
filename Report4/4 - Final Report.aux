@@ -1,0 +1,183 @@
+\relax 
+\providecommand\hyper@newdestlabel[2]{}
+\providecommand\HyField@AuxAddToFields[1]{}
+\providecommand\HyField@AuxAddToCoFields[2]{}
+\@writefile{toc}{\contentsline {section}{\numberline {1}\texttt  {\textbf  {\textcolor {blue}{[2 points]}}} Introduction and Problem Definition (1-1.25 pages)}{1}{section.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Motivation.}{1}{section*.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Problem Setup.}{1}{section*.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Challenges in Prior Work.}{1}{section*.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Proposed Solution.}{1}{section*.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{High-Level Objective.}{2}{section*.5}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Example Questions and Visual Inputs for VQA in Driving.}}{2}{figure.caption.6}\protected@file@percent }
+\providecommand*\caption@xref[2]{\@setref\relax\@undefined{#1}}
+\newlabel{fig:example-vqa}{{1}{2}{Example Questions and Visual Inputs for VQA in Driving}{figure.caption.6}{}}
+\@writefile{toc}{\contentsline {paragraph}{Contributions.}{2}{section*.7}\protected@file@percent }
+\citation{sima2025drivelmdrivinggraphvisual}
+\citation{qian2024nuscenes}
+\citation{nuPrompt2023}
+\citation{had2023}
+\citation{bai2021bddx}
+\citation{lingoqa2023}
+\citation{drama2022}
+\citation{rank2tell2023}
+\citation{sima2025drivelmdrivinggraphvisual}
+\citation{sima2025drivelmdrivinggraphvisual}
+\citation{sima2025drivelmdrivinggraphvisual}
+\@writefile{toc}{\contentsline {section}{\numberline {2}\texttt  {\textbf  {\textcolor {blue}{[5 points]}}} Related Work and Background (5 papers per person)}{3}{section.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Related Datasets}{3}{section*.8}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces  Comparison of DriveLM-nuScenes with Existing Vision-Language Datasets. $^*$: semi-rule-based labeling with human annotation. $^{**}$: fully-rule-based annotation. $\dagger $: full dataset. $\ddagger $: keyframe-only dataset. }}{3}{table.caption.9}\protected@file@percent }
+\newlabel{tab:related_datasets}{{1}{3}{Comparison of DriveLM-nuScenes with Existing Vision-Language Datasets. $^*$: semi-rule-based labeling with human annotation. $^{**}$: fully-rule-based annotation. $\dagger $: full dataset. $\ddagger $: keyframe-only dataset}{table.caption.9}{}}
+\@writefile{toc}{\contentsline {paragraph}{Unimodal Baselines}{3}{section*.10}\protected@file@percent }
+\citation{li2023blip2}
+\citation{openai2023gpt4}
+\citation{xu2023drivegpt4}
+\citation{wang2023drivemlm}
+\citation{chen2023driving}
+\citation{cho2021unifying}
+\citation{dai2023instructblip}
+\citation{radford2021learning}
+\citation{kim2021vilt}
+\citation{liu2023llava}
+\citation{wu2023visualchatgpt}
+\citation{wu2024mivc}
+\citation{zhu2023minigpt4}
+\citation{zhao2023vila}
+\citation{gopalkrishnan2024multi}
+\citation{li2022bevformer}
+\citation{liu2022bevfusion}
+\citation{bai2022transfusion}
+\citation{yu2022pointbert}
+\citation{ramesh2021dalle}
+\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces Performance of Unimodal Q-only Baselines using T5-Base and T5-Q-Large on DriveLM-nuScenes VQA Tasks.}}{4}{table.caption.11}\protected@file@percent }
+\newlabel{tab:qonly_results}{{2}{4}{Performance of Unimodal Q-only Baselines using T5-Base and T5-Q-Large on DriveLM-nuScenes VQA Tasks}{table.caption.11}{}}
+\@writefile{toc}{\contentsline {paragraph}{Prior Work}{4}{section*.12}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Relevant techniques}{4}{section*.14}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces Analysis of 20 Related Prior Works in Vision-Language and Autonomous Driving.}}{5}{table.caption.13}\protected@file@percent }
+\newlabel{tab:priorwork}{{3}{5}{Analysis of 20 Related Prior Works in Vision-Language and Autonomous Driving}{table.caption.13}{}}
+\citation{sima2025drivelmdrivinggraphvisual}
+\@writefile{toc}{\contentsline {section}{\numberline {3}\texttt  {\textbf  {\textcolor {blue}{[1 points]}}} Task Setup and Data}{6}{section.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Task Definition.}{6}{section*.15}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Dataset.}{6}{section*.16}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Question Types.}{6}{section*.17}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Templates and Reasoning Complexity.}{6}{section*.18}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Key Objects and Object-Level QA Distribution.}{6}{section*.19}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces High-level Question Types Grouped into Perception, Prediction, and Planning.}}{6}{figure.caption.20}\protected@file@percent }
+\newlabel{fig:question-distribution}{{2}{6}{High-level Question Types Grouped into Perception, Prediction, and Planning}{figure.caption.20}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Subcategory Breakdown of VQA tasks in DriveLM-nuScenes.}}{7}{figure.caption.21}\protected@file@percent }
+\newlabel{fig:qa-task-distribution}{{3}{7}{Subcategory Breakdown of VQA tasks in DriveLM-nuScenes}{figure.caption.21}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {4}{\ignorespaces Examples of QA Templates at Different Reasoning Levels in DriveLM.}}{7}{table.caption.22}\protected@file@percent }
+\newlabel{tab:qa-templates}{{4}{7}{Examples of QA Templates at Different Reasoning Levels in DriveLM}{table.caption.22}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces (Left) Distribution of Key Object Types Referenced in DriveLM. (Middle) Breakdown of QA Types Associated with Traffic Elements. (Right) Distribution of QA Types for Other Object Categories.}}{7}{figure.caption.23}\protected@file@percent }
+\newlabel{fig:fig9-objects}{{4}{7}{(Left) Distribution of Key Object Types Referenced in DriveLM. (Middle) Breakdown of QA Types Associated with Traffic Elements. (Right) Distribution of QA Types for Other Object Categories}{figure.caption.23}{}}
+\citation{qian2024nuscenes}
+\@writefile{toc}{\contentsline {section}{\numberline {4}\texttt  {\textbf  {\textcolor {blue}{[1 points]}}} Baselines}{8}{section.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Previous Dataset/Baselines}{8}{subsection.4.1}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {5}{\ignorespaces Original Baseline Models on NuScenes-QA Showing Top-1 Accuracy across Question Types. H0 = Zero-Hop; H1 = One-Hop.}}{8}{table.caption.24}\protected@file@percent }
+\newlabel{tab:nuscenes-baselines}{{5}{8}{Original Baseline Models on NuScenes-QA Showing Top-1 Accuracy across Question Types. H0 = Zero-Hop; H1 = One-Hop}{table.caption.24}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}The Problem of the Previous Dataset}{8}{subsection.4.2}\protected@file@percent }
+\citation{gopalkrishnan2024multi}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces The Front-Left Image (left), Back-Left Image (middle), and the Back Image (right) to the Ego Car.}}{9}{figure.caption.25}\protected@file@percent }
+\newlabel{fig:misaligned-examples}{{5}{9}{The Front-Left Image (left), Back-Left Image (middle), and the Back Image (right) to the Ego Car}{figure.caption.25}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces The Front-Left Image (left), Front Image (middle), and the Front-Right Image (right) to the Ego Car.}}{9}{figure.caption.26}\protected@file@percent }
+\newlabel{fig:misaligned-examples}{{6}{9}{The Front-Left Image (left), Front Image (middle), and the Front-Right Image (right) to the Ego Car}{figure.caption.26}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces The Back-Left Image (left), Back Image (middle), and the Back-Right Image (right) to the Ego Car.}}{9}{figure.caption.27}\protected@file@percent }
+\newlabel{fig:misaligned-examples}{{7}{9}{The Back-Left Image (left), Back Image (middle), and the Back-Right Image (right) to the Ego Car}{figure.caption.27}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}New Dataset/Baselines}{9}{subsection.4.3}\protected@file@percent }
+\citation{gopalkrishnan2024multi}
+\@writefile{lot}{\contentsline {table}{\numberline {6}{\ignorespaces Comparison of Baseline Models on DriveLM-nuScenes. Q-only models use text only; others incorporate image features.}}{10}{table.caption.28}\protected@file@percent }
+\newlabel{tab:merged-drive-performance}{{6}{10}{Comparison of Baseline Models on DriveLM-nuScenes. Q-only models use text only; others incorporate image features}{table.caption.28}{}}
+\citation{Caesar2019nuScenesAM}
+\@writefile{toc}{\contentsline {section}{\numberline {5}\texttt  {\textbf  {\textcolor {blue}{[3 points]}}} Proposed Model ($>$1 page)}{11}{section.5}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces Proposed Model Architecture}}{11}{figure.caption.29}\protected@file@percent }
+\newlabel{fig:drivelm-arch}{{8}{11}{Proposed Model Architecture}{figure.caption.29}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.1}Loss functions}{11}{subsection.5.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2}Changes to training data}{11}{subsection.5.2}\protected@file@percent }
+\citation{Dosovitskiy2020AnII}
+\citation{Deng2009ImageNetAL}
+\citation{Liu2022BEVFusionMM}
+\citation{Liu2021SwinTH}
+\citation{Zhou2017VoxelNetEL}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.3}Training Setup}{12}{subsection.5.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.4}Hyperparameters and their effects}{12}{subsection.5.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{1. Learning Rate.}{12}{section*.30}\protected@file@percent }
+\citation{li2023loftq}
+\@writefile{lot}{\contentsline {table}{\numberline {7}{\ignorespaces Effect of Learning Rate on Final Metrics without Pretraining Stage 8 epochs.}}{13}{table.caption.31}\protected@file@percent }
+\newlabel{tab:lr_effectwopretrain}{{7}{13}{Effect of Learning Rate on Final Metrics without Pretraining Stage 8 epochs}{table.caption.31}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {8}{\ignorespaces Effect of Learning Rate on Final Metrics with Pretraining Stage 8 epochs.}}{13}{table.caption.32}\protected@file@percent }
+\newlabel{tab:lr_effectwpretrain}{{8}{13}{Effect of Learning Rate on Final Metrics with Pretraining Stage 8 epochs}{table.caption.32}{}}
+\@writefile{toc}{\contentsline {paragraph}{2. Switch Between T5-Base/T5-Q-Large LLM models.}{13}{section*.33}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {9}{\ignorespaces Effect of LLM Models on Final Metrics.}}{13}{table.caption.34}\protected@file@percent }
+\newlabel{tab:llm-effect}{{9}{13}{Effect of LLM Models on Final Metrics}{table.caption.34}{}}
+\@writefile{toc}{\contentsline {paragraph}{3. BEV Feature Projection Layer Complexity.}{14}{section*.35}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {10}{\ignorespaces Effect of of Projection Layers Complexity}}{14}{table.caption.36}\protected@file@percent }
+\newlabel{tab:proj-effect}{{10}{14}{Effect of of Projection Layers Complexity}{table.caption.36}{}}
+\citation{sima2025drivelmdrivinggraphvisual}
+\citation{gopalkrishnan2024multi}
+\citation{gopalkrishnan2024multi}
+\@writefile{toc}{\contentsline {section}{\numberline {6}\texttt  {\textbf  {\textcolor {blue}{[1 points]}}} Results (1 page)}{15}{section.6}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {11}{\ignorespaces Comparison of Our Methods with Baseline Models on DriveLM-nuScenes.}}{15}{table.caption.37}\protected@file@percent }
+\newlabel{tab:results}{{11}{15}{Comparison of Our Methods with Baseline Models on DriveLM-nuScenes}{table.caption.37}{}}
+\citation{qian2024nuscenes}
+\citation{Caesar2019nuScenesAM}
+\@writefile{toc}{\contentsline {section}{\numberline {7}\texttt  {\textbf  {\textcolor {blue}{[3 points]}}} Analysis (2 pages)}{16}{section.7}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.1}Intrinsic Metrics}{16}{subsection.7.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Intrinsic Metric 1}{16}{section*.38}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Intrinsic Metric 2}{16}{section*.39}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {12}{\ignorespaces A Complete Table of Intrinsic Metrics}}{16}{table.caption.40}\protected@file@percent }
+\newlabel{tab:intrinsic}{{12}{16}{A Complete Table of Intrinsic Metrics}{table.caption.40}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.2}Qualitative Analysis and Examples (full page tables -- multiple pages for most projects)}{17}{subsection.7.2}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {13}{\ignorespaces Cases Where Only Our Method Answered Correctly.}}{17}{table.caption.41}\protected@file@percent }
+\newlabel{tab:qualitative_examples_our}{{13}{17}{Cases Where Only Our Method Answered Correctly}{table.caption.41}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {14}{\ignorespaces Cases Where Every Method Failed.}}{18}{table.caption.42}\protected@file@percent }
+\newlabel{tab:qualitative_examples_all_fail}{{14}{18}{Cases Where Every Method Failed}{table.caption.42}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {15}{\ignorespaces Cases Where Every EM-VLM4AD Answered Correctly.}}{18}{table.caption.43}\protected@file@percent }
+\newlabel{tab:qualitative_examples_our}{{15}{18}{Cases Where Every EM-VLM4AD Answered Correctly}{table.caption.43}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {8}Limitations}{19}{section.8}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {16}{\ignorespaces Trivially Correct Cases Caused by Poorly Constructed QA Pairs.}}{19}{table.caption.44}\protected@file@percent }
+\newlabel{tab:collision_responses}{{16}{19}{Trivially Correct Cases Caused by Poorly Constructed QA Pairs}{table.caption.44}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {17}{\ignorespaces Models Favoring Frequent Object Classes over Visual Evidence.}}{19}{table.caption.45}\protected@file@percent }
+\newlabel{tab:collision_responses}{{17}{19}{Models Favoring Frequent Object Classes over Visual Evidence}{table.caption.45}{}}
+\citation{qian2024nuscenes}
+\citation{gopalkrishnan2024multi}
+\citation{wang2024dust3rgeometric3dvision}
+\@writefile{toc}{\contentsline {section}{\numberline {9}Future Work}{20}{section.9}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {10}\texttt  {\textbf  {\textcolor {blue}{[1 points]}}} Ethical Concerns and Considerations (unintentional, malicious, and dual-use)}{20}{section.10}\protected@file@percent }
+\bibdata{references}
+\bibcite{bai2021bddx}{{1}{2021}{{Bai et~al.}}{{}}}
+\bibcite{bai2022transfusion}{{2}{2022}{{Bai et~al.}}{{}}}
+\bibcite{Caesar2019nuScenesAM}{{3}{2019}{{Caesar et~al.}}{{Caesar, Bankiti, Lang, Vora, Liong, Xu, Krishnan, Pan, Baldan, and Beijbom}}}
+\bibcite{lingoqa2023}{{4}{2023{a}}{{Chen et~al.}}{{}}}
+\bibcite{chen2023driving}{{5}{2023{b}}{{Chen et~al.}}{{}}}
+\bibcite{cho2021unifying}{{6}{2021}{{Cho et~al.}}{{}}}
+\bibcite{dai2023instructblip}{{7}{2023}{{Dai et~al.}}{{}}}
+\bibcite{Deng2009ImageNetAL}{{8}{2009}{{Deng et~al.}}{{Deng, Dong, Socher, Li, Li, and Fei-Fei}}}
+\bibcite{Dosovitskiy2020AnII}{{9}{2020}{{Dosovitskiy et~al.}}{{Dosovitskiy, Beyer, Kolesnikov, Weissenborn, Zhai, Unterthiner, Dehghani, Minderer, Heigold, Gelly, Uszkoreit, and Houlsby}}}
+\bibcite{gopalkrishnan2024multi}{{10}{2024}{{Gopalkrishnan et~al.}}{{Gopalkrishnan, Greer, and Trivedi}}}
+\bibcite{kim2021vilt}{{11}{2021}{{Kim et~al.}}{{}}}
+\bibcite{li2023blip2}{{12}{2023{a}}{{Li et~al.}}{{}}}
+\bibcite{li2022bevformer}{{13}{2022}{{Li et~al.}}{{}}}
+\bibcite{li2023loftq}{{14}{2023{b}}{{Li et~al.}}{{Li, Yu, Liang, He, Karampatziakis, Chen, and Zhao}}}
+\bibcite{liu2023llava}{{15}{2023}{{Liu et~al.}}{{}}}
+\bibcite{Liu2021SwinTH}{{16}{2021}{{Liu et~al.}}{{Liu, Lin, Cao, Hu, Wei, Zhang, Lin, and Guo}}}
+\bibcite{Liu2022BEVFusionMM}{{17}{2022{a}}{{Liu et~al.}}{{Liu, Tang, Amini, Yang, Mao, Rus, and Han}}}
+\bibcite{liu2022bevfusion}{{18}{2022{b}}{{Liu et~al.}}{{}}}
+\bibcite{openai2023gpt4}{{19}{2023}{{OpenAI}}{{}}}
+\bibcite{qian2024nuscenes}{{20}{2024}{{Qian et~al.}}{{Qian, Chen, Zhuo, Jiao, and Jiang}}}
+\bibcite{radford2021learning}{{21}{2021}{{Radford et~al.}}{{}}}
+\bibcite{ramesh2021dalle}{{22}{2021}{{Ramesh et~al.}}{{}}}
+\bibcite{sima2025drivelmdrivinggraphvisual}{{23}{2025}{{Sima et~al.}}{{Sima, Renz, Chitta, Chen, Zhang, Xie, Beißwenger, Luo, Geiger, and Li}}}
+\bibcite{had2023}{{24}{2023}{{Tang et~al.}}{{}}}
+\bibcite{wang2024dust3rgeometric3dvision}{{25}{2024}{{Wang et~al.}}{{Wang, Leroy, Cabon, Chidlovskii, and Revaud}}}
+\bibcite{wang2023drivemlm}{{26}{2023}{{Wang et~al.}}{{}}}
+\bibcite{wu2024mivc}{{27}{2024}{{Wu et~al.}}{{}}}
+\bibcite{wu2023visualchatgpt}{{28}{2023}{{Wu et~al.}}{{}}}
+\bibcite{xu2023drivegpt4}{{29}{2023}{{Xu et~al.}}{{}}}
+\bibcite{nuPrompt2023}{{30}{2023}{{Yang et~al.}}{{}}}
+\bibcite{drama2022}{{31}{2022}{{Yao et~al.}}{{}}}
+\bibcite{yu2022pointbert}{{32}{2022}{{Yu et~al.}}{{}}}
+\bibcite{zhao2023vila}{{33}{2023}{{Zhao et~al.}}{{}}}
+\bibcite{rank2tell2023}{{34}{2023}{{Zhou et~al.}}{{}}}
+\bibcite{Zhou2017VoxelNetEL}{{35}{2017}{{Zhou \& Tuzel}}{{Zhou and Tuzel}}}
+\bibcite{zhu2023minigpt4}{{36}{2023}{{Zhu et~al.}}{{}}}
+\bibstyle{iclr2024_conference}
+\gdef \@abspage@last{23}

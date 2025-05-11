@@ -1,0 +1,237 @@
+\begin{thebibliography}{36}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bai et~al.(2021)]{bai2021bddx}
+Song Bai et~al.
+\newblock Learning interpretable models for self-driving vehicles via bdd-x.
+\newblock In \emph{ECCV}, 2021.
+
+\bibitem[Bai et~al.(2022)]{bai2022transfusion}
+Yicheng Bai et~al.
+\newblock Transfusion: Robust lidar-based 3d object detection with dense
+  transformers.
+\newblock In \emph{CVPR}, 2022.
+
+\bibitem[Caesar et~al.(2019)Caesar, Bankiti, Lang, Vora, Liong, Xu, Krishnan,
+  Pan, Baldan, and Beijbom]{Caesar2019nuScenesAM}
+Holger Caesar, Varun Bankiti, Alex~H. Lang, Sourabh Vora, Venice~Erin Liong,
+  Qiang Xu, Anush Krishnan, Yuxin Pan, Giancarlo Baldan, and Oscar Beijbom.
+\newblock nuscenes: A multimodal dataset for autonomous driving.
+\newblock \emph{2020 IEEE/CVF Conference on Computer Vision and Pattern
+  Recognition (CVPR)}, pp.\  11618--11628, 2019.
+\newblock URL \url{https://api.semanticscholar.org/CorpusID:85517967}.
+
+\bibitem[Chen et~al.(2023{\natexlab{a}})]{lingoqa2023}
+Hang Chen et~al.
+\newblock Lingoqa: Language-driven visual reasoning for autonomous vehicles.
+\newblock In \emph{CVPR}, 2023{\natexlab{a}}.
+
+\bibitem[Chen et~al.(2023{\natexlab{b}})]{chen2023driving}
+Long Chen et~al.
+\newblock Driving with llms: Fusing object-level vector modality for
+  explainable autonomous driving.
+\newblock \emph{arXiv preprint arXiv:2310.01957}, 2023{\natexlab{b}}.
+
+\bibitem[Cho et~al.(2021)]{cho2021unifying}
+Jaemin Cho et~al.
+\newblock Unifying vision-and-language tasks via text generation.
+\newblock In \emph{ICML}, 2021.
+
+\bibitem[Dai et~al.(2023)]{dai2023instructblip}
+Wenliang Dai et~al.
+\newblock Instructblip: Towards general-purpose vision-language models with
+  instruction tuning.
+\newblock \emph{arXiv preprint arXiv:2305.06500}, 2023.
+
+\bibitem[Deng et~al.(2009)Deng, Dong, Socher, Li, Li, and
+  Fei-Fei]{Deng2009ImageNetAL}
+Jia Deng, Wei Dong, Richard Socher, Li-Jia Li, K.~Li, and Li~Fei-Fei.
+\newblock Imagenet: A large-scale hierarchical image database.
+\newblock \emph{2009 IEEE Conference on Computer Vision and Pattern
+  Recognition}, pp.\  248--255, 2009.
+\newblock URL \url{https://api.semanticscholar.org/CorpusID:57246310}.
+
+\bibitem[Dosovitskiy et~al.(2020)Dosovitskiy, Beyer, Kolesnikov, Weissenborn,
+  Zhai, Unterthiner, Dehghani, Minderer, Heigold, Gelly, Uszkoreit, and
+  Houlsby]{Dosovitskiy2020AnII}
+Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn,
+  Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg
+  Heigold, Sylvain Gelly, Jakob Uszkoreit, and Neil Houlsby.
+\newblock An image is worth 16x16 words: Transformers for image recognition at
+  scale.
+\newblock \emph{ArXiv}, abs/2010.11929, 2020.
+\newblock URL \url{https://api.semanticscholar.org/CorpusID:225039882}.
+
+\bibitem[Gopalkrishnan et~al.(2024)Gopalkrishnan, Greer, and
+  Trivedi]{gopalkrishnan2024multi}
+Akshay Gopalkrishnan, Ross Greer, and Mohan Trivedi.
+\newblock Multi-frame, lightweight \& efficient vision-language models for
+  question answering in autonomous driving.
+\newblock \emph{arXiv preprint arXiv:2403.19838}, 2024.
+
+\bibitem[Kim et~al.(2021)]{kim2021vilt}
+Wonjae Kim et~al.
+\newblock Vilt: Vision-and-language transformer without convolution or region
+  supervision.
+\newblock In \emph{ICML}, 2021.
+
+\bibitem[Li et~al.(2023{\natexlab{a}})]{li2023blip2}
+Junnan Li et~al.
+\newblock Blip-2: Bootstrapping language-image pre-training with frozen image
+  encoders and large language models.
+\newblock \emph{arXiv preprint arXiv:2301.12597}, 2023{\natexlab{a}}.
+
+\bibitem[Li et~al.(2022)]{li2022bevformer}
+Tianyuan Li et~al.
+\newblock Bevformer: Learning bird's-eye-view representation from multi-camera
+  images via spatiotemporal transformers.
+\newblock In \emph{ECCV}, 2022.
+
+\bibitem[Li et~al.(2023{\natexlab{b}})Li, Yu, Liang, He, Karampatziakis, Chen,
+  and Zhao]{li2023loftq}
+Yixiao Li, Yifan Yu, Chen Liang, Pengcheng He, Nikos Karampatziakis, Weizhu
+  Chen, and Tuo Zhao.
+\newblock Loftq: Lora-fine-tuning-aware quantization for large language models.
+\newblock \emph{arXiv preprint arXiv:2310.08659}, 2023{\natexlab{b}}.
+
+\bibitem[Liu et~al.(2023)]{liu2023llava}
+Haotian Liu et~al.
+\newblock Llava: Large language-and-vision assistant.
+\newblock \emph{arXiv preprint arXiv:2304.08485}, 2023.
+
+\bibitem[Liu et~al.(2021)Liu, Lin, Cao, Hu, Wei, Zhang, Lin, and
+  Guo]{Liu2021SwinTH}
+Ze~Liu, Yutong Lin, Yue Cao, Han Hu, Yixuan Wei, Zheng Zhang, Stephen Lin, and
+  Baining Guo.
+\newblock Swin transformer: Hierarchical vision transformer using shifted
+  windows.
+\newblock \emph{2021 IEEE/CVF International Conference on Computer Vision
+  (ICCV)}, pp.\  9992--10002, 2021.
+\newblock URL \url{https://api.semanticscholar.org/CorpusID:232352874}.
+
+\bibitem[Liu et~al.(2022{\natexlab{a}})Liu, Tang, Amini, Yang, Mao, Rus, and
+  Han]{Liu2022BEVFusionMM}
+Zhijian Liu, Haotian Tang, Alexander Amini, Xinyu Yang, Huizi Mao, Daniela Rus,
+  and Song Han.
+\newblock Bevfusion: Multi-task multi-sensor fusion with unified bird's-eye
+  view representation.
+\newblock \emph{2023 IEEE International Conference on Robotics and Automation
+  (ICRA)}, pp.\  2774--2781, 2022{\natexlab{a}}.
+\newblock URL \url{https://api.semanticscholar.org/CorpusID:249097415}.
+
+\bibitem[Liu et~al.(2022{\natexlab{b}})]{liu2022bevfusion}
+Zhijian Liu et~al.
+\newblock Bevfusion: Multi-task multi-sensor fusion with unified bird’s-eye
+  view representation.
+\newblock In \emph{NeurIPS}, 2022{\natexlab{b}}.
+
+\bibitem[OpenAI(2023)]{openai2023gpt4}
+OpenAI.
+\newblock Gpt-4 technical report.
+\newblock \emph{arXiv preprint arXiv:2303.08774}, 2023.
+
+\bibitem[Qian et~al.(2024)Qian, Chen, Zhuo, Jiao, and Jiang]{qian2024nuscenes}
+Tianwen Qian, Jingjing Chen, Linhai Zhuo, Yang Jiao, and Yu-Gang Jiang.
+\newblock Nuscenes-qa: A multi-modal visual question answering benchmark for
+  autonomous driving scenario.
+\newblock \emph{arXiv preprint arXiv:2305.14836}, 2024.
+\newblock URL
+  \url{chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2305.14836}.
+
+\bibitem[Radford et~al.(2021)]{radford2021learning}
+Alec Radford et~al.
+\newblock Learning transferable visual models from natural language
+  supervision.
+\newblock \emph{ICML}, 2021.
+
+\bibitem[Ramesh et~al.(2021)]{ramesh2021dalle}
+Aditya Ramesh et~al.
+\newblock Zero-shot text-to-image generation.
+\newblock \emph{arXiv preprint arXiv:2102.12092}, 2021.
+
+\bibitem[Sima et~al.(2025)Sima, Renz, Chitta, Chen, Zhang, Xie, Beißwenger,
+  Luo, Geiger, and Li]{sima2025drivelmdrivinggraphvisual}
+Chonghao Sima, Katrin Renz, Kashyap Chitta, Li~Chen, Hanxue Zhang, Chengen Xie,
+  Jens Beißwenger, Ping Luo, Andreas Geiger, and Hongyang Li.
+\newblock Drivelm: Driving with graph visual question answering, 2025.
+\newblock URL \url{https://arxiv.org/abs/2312.14150}.
+
+\bibitem[Tang et~al.(2023)]{had2023}
+Yuming Tang et~al.
+\newblock Human attention dataset (had) for driving.
+\newblock In \emph{CVPR}, 2023.
+
+\bibitem[Wang et~al.(2024)Wang, Leroy, Cabon, Chidlovskii, and
+  Revaud]{wang2024dust3rgeometric3dvision}
+Shuzhe Wang, Vincent Leroy, Yohann Cabon, Boris Chidlovskii, and Jerome Revaud.
+\newblock Dust3r: Geometric 3d vision made easy, 2024.
+\newblock URL \url{https://arxiv.org/abs/2312.14132}.
+
+\bibitem[Wang et~al.(2023)]{wang2023drivemlm}
+Wenhai Wang et~al.
+\newblock Drivemlm: Aligning multimodal large language models with planning
+  states.
+\newblock \emph{arXiv preprint arXiv:2309.09952}, 2023.
+
+\bibitem[Wu et~al.(2024)]{wu2024mivc}
+Wenyi Wu et~al.
+\newblock Mivc: Multi-instance visual components for vision-language models.
+\newblock In \emph{WACV}, 2024.
+
+\bibitem[Wu et~al.(2023)]{wu2023visualchatgpt}
+Yuheng Wu et~al.
+\newblock Visual chatgpt: Talking, drawing and editing with visual foundation
+  models.
+\newblock \emph{arXiv preprint arXiv:2303.04671}, 2023.
+
+\bibitem[Xu et~al.(2023)]{xu2023drivegpt4}
+Zhenhua Xu et~al.
+\newblock Drivegpt4: Interpretable end-to-end autonomous driving via llm.
+\newblock \emph{arXiv preprint arXiv:2310.01412}, 2023.
+
+\bibitem[Yang et~al.(2023)]{nuPrompt2023}
+Lei Yang et~al.
+\newblock nuprompt: Benchmarking vision-language models for autonomous driving
+  with prompting.
+\newblock \emph{arXiv preprint arXiv:2311.05773}, 2023.
+
+\bibitem[Yao et~al.(2022)]{drama2022}
+Yecheng Yao et~al.
+\newblock Drama: A driving dataset for rare and multi-agent interactions.
+\newblock In \emph{Conference on Robot Learning (CoRL)}, 2022.
+
+\bibitem[Yu et~al.(2022)]{yu2022pointbert}
+Qiangeng Yu et~al.
+\newblock Point-bert: Pre-training 3d point cloud transformers with masked
+  point modeling.
+\newblock In \emph{CVPR}, 2022.
+
+\bibitem[Zhao et~al.(2023)]{zhao2023vila}
+Ziyang Zhao et~al.
+\newblock Vila: Unified instruction-tuned vision-language foundation model.
+\newblock \emph{arXiv preprint arXiv:2305.14588}, 2023.
+
+\bibitem[Zhou et~al.(2023)]{rank2tell2023}
+Yanyan Zhou et~al.
+\newblock Rank2tell: Grounded question answering via ranking and generation.
+\newblock In \emph{CVPR}, 2023.
+
+\bibitem[Zhou \& Tuzel(2017)Zhou and Tuzel]{Zhou2017VoxelNetEL}
+Yin Zhou and Oncel Tuzel.
+\newblock Voxelnet: End-to-end learning for point cloud based 3d object
+  detection.
+\newblock \emph{2018 IEEE/CVF Conference on Computer Vision and Pattern
+  Recognition}, pp.\  4490--4499, 2017.
+\newblock URL \url{https://api.semanticscholar.org/CorpusID:42427078}.
+
+\bibitem[Zhu et~al.(2023)]{zhu2023minigpt4}
+Deyi Zhu et~al.
+\newblock Minigpt-4: Enhancing vision-language understanding with gpt-4 level
+  capabilities.
+\newblock \emph{arXiv preprint arXiv:2304.10592}, 2023.
+
+\end{thebibliography}
